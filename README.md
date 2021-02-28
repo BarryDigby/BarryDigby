@@ -8,7 +8,9 @@ Research interests currently include clinical data analysis, development of repr
 #### Research Project 
 My thesis project is centered around the investigation of circularRNAs in castrate resistant prostate cancer (CRPC). Due to their stability and tissue specific expression, circRNAs are a promising candidate as a clinical biomarker which can be used to stratify patients response to enzalutamide - an anti-androgen used for the treatment of CRPC. Furthermore, circRNAs can help elucidate the mechanism of enzalutamide resistance (which affects ~30% patients) by investigating their role as miRNA sponges in the competing endogenous RNA network.
 
-To this end, I have developed a circRNA analysis pipeline in nextflow capable of consolidating results from multiple circRNA quantification tools maximising the circRNA profile in samples, perform circRNA - miRNA target prediciton and perform circRNA differential expression analysis between the phenotype of interest. 
+To aid these research goals, I have developed a circRNA analysis pipeline in nextflow capable of consolidating results from multiple circRNA quantification tools maximising the circRNA profile in samples, predict circRNA - miRNA targets & perform circRNA differential expression analysis between the phenotype of interest.
+
+The ultimate goal of the workflow is to be used as a core production pipeline for sequencing facilities to fully elucidate the role of circRNAs in cancer genomics, aiding clinical decisions in health care.
 
 <center>
 <img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/main/images/JC%202021.png" width="100%" height="100%"/>
