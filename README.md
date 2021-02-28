@@ -11,7 +11,7 @@ My thesis project is centered around the investigation of circularRNAs in castra
 To this end, I have developed a circRNA analysis pipeline in nextflow capable of consolidating results from multiple circRNA quantification tools maximising the circRNA profile in samples, perform circRNA - miRNA target prediciton and perform circRNA differential expression analysis between the phenotype of interest. 
 
 <center>
-<img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/master/images/JC%2021.png" width="100%" height="100%"/>
+<img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/main/images/JC%202021.png" width="100%" height="100%"/>
 </center>
 
 
