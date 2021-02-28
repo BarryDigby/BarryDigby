@@ -20,6 +20,10 @@ The ultimate goal of the workflow is to be used as a core production pipeline fo
 <img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/main/images/JC%202021.png" width="100%" height="100%"/>
 </center>
 
+#### Conferences 
+Work on `nf-core/circrna` was presented at the Computational Genomics and Systems Biology Symposium 2020by way of poster presentation. The poster is accessible for viewing at the following [link](https://docs.google.com/presentation/d/1mOuamh7QDb3zez4dNRpwlgJY6LIw2qRTj2Manpg8Eas/edit?usp=sharing).
+
+*Note* poster contains early revisions of `nf-core/circrna`, some information may not currently be accurate. 
 
 
 <!--
