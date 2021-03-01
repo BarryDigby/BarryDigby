@@ -14,7 +14,7 @@ My thesis project is centered around the investigation of circularRNAs in castra
 
 To aid these research goals, I have developed a circRNA analysis pipeline in nextflow capable of consolidating results from multiple circRNA quantification tools maximising the circRNA profile in samples, predict circRNA - miRNA targets & perform circRNA differential expression analysis between the phenotype of interest.
 
-The ultimate goal of the workflow is to be used as a core production pipeline for sequencing facilities to fully elucidate the role of circRNAs in cancer genomics, aiding clinical decisions in health care.
+The workflow can be used as a core production pipeline for sequencing facilities or as a standalone pipelie for research labs to fully elucidate the role of circRNAs in cancer genomics, aiding clinical decisions in health care.
 
 <center>
 <img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/main/images/JC%202021.png" width="100%" height="100%"/>
