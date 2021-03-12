@@ -17,7 +17,7 @@ To aid these research goals, I have developed a circRNA analysis pipeline in nex
 The workflow can be used as a core production pipeline for sequencing facilities or as a standalone pipeline for research labs to fully elucidate the role of circRNAs in cancer genomics, aiding clinical decisions in health care.
 
 <center>
-<img src="https://raw.githubusercontent.com/BarryDigby/BarryDigby/main/images/JC%202021.png" width="100%" height="100%"/>
+<img src="https://raw.githubusercontent.com/nf-core/circrna/dev/docs/images/workflow.png" width="100%" height="100%"/>
 </center>
 
 #### Conferences 
