@@ -22,27 +22,17 @@ The workflow can be used as a core production pipeline for sequencing facilities
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarryDigby&count_private=true&show_icons=true" alt="GitHub stats" />
-</a> <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarryDigby&layout=compact" alt= "Top languages" />
-</a>
+</a> 
 
 
 ### Spotify Playing 🎧
 
-<td width="50%">
+<td width="80%">
       
 &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290325278&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
 
-<!--
-[<img src="https://now-playing-simonzhe.vercel.app/api/spotify-playing" alt="Loy Spotify Playing" width="350" />](https://open.spotify.com/track/4FFB0Tp6sR4pvoguhCZ33O?si=-JJ8n8uoSRqHmjbEVn-DnA)
--->
-
-<!--
-<iframe src="https://open.spotify.com/embed/track/4FFB0Tp6sR4pvoguhCZ33O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
-</iframe>
--->
 
 <!--
 **BarryDigby/BarryDigby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
