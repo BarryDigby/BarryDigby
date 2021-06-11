@@ -1,3 +1,9 @@
+### Basic Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BarryDigby&count_private=true&show_icons=true" alt="GitHub stats" />
+</a> 
+
 ### Bio
 - BSc Biotechnology (NUIG 2011-2015)
 - MSc Biomedical Genomics (NUIG 2017-2018)
@@ -17,12 +23,6 @@ The workflow can be used as a core production pipeline for sequencing facilities
 <center>
 <img src="https://raw.githubusercontent.com/nf-core/circrna/dev/docs/images/workflow.png" width="100%" height="100%"/>
 </center>
-
-### Basic Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BarryDigby&count_private=true&show_icons=true" alt="GitHub stats" />
-</a> 
 
 
 ### Spotify Playing 🎧
