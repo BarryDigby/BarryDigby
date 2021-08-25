@@ -24,7 +24,7 @@ The workflow can be used as a core production pipeline for sequencing facilities
 <img src="https://raw.githubusercontent.com/nf-core/circrna/dev/docs/images/workflow.png" width="100%" height="100%"/>
 </center>
 
-
+<!--
 ### Spotify Playing 🎧
 
 <td width="80%">
@@ -32,7 +32,7 @@ The workflow can be used as a core production pipeline for sequencing facilities
 &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290325278&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
-
+-->
 
 <!--
 **BarryDigby/BarryDigby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
