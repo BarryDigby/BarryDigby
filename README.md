@@ -5,8 +5,8 @@
 </a> 
 
 ### Bio
-- BSc Biotechnology (NUIG 2011-2015)
-- MSc Biomedical Genomics (NUIG 2017-2018)
+- BSc Biotechnology
+- MSc Biomedical Genomics
 - PhD in Genomic Data Science (NUIG 2019-Present)
 
 Currently a member of Dr. Pilib Ò Broin's lab at National University of Ireland, Galway. 
