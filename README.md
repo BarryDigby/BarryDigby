@@ -1,7 +1,7 @@
 ### Basic Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BarryDigby&count_private=true&show_icons=true" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BarryDigby&count_private=true&show_icons=true" alt="GitHub stats" />
 </a> 
 
 ### Bio
